@@ -17,3 +17,5 @@ for i in range(0, 100):
         print(i)
         power = i * i * i
         print(power)
+        
+print("Zmiana w Commicie")
